@@ -8,7 +8,7 @@ Date    : Oct 11, 2020
 ************************************************************
 */
 
-class IfElse{
+public class IfElse{
    public static void main(String[] args) {
         int a = 16;
        if((a%2)==0){
